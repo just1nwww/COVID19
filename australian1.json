@@ -1,0 +1,806 @@
+[
+  {
+    "DAYS": 1,
+    "CONFIRMED": 0,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 2,
+    "CONFIRMED": 0,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 3,
+    "CONFIRMED": 0,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 4,
+    "CONFIRMED": 40,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 5,
+    "CONFIRMED": 50,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 6,
+    "CONFIRMED": 50,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 7,
+    "CONFIRMED": 60,
+    "DEATHS": 0,
+    "RECOVERED": 0
+  },
+  {
+    "DAYS": 8,
+    "CONFIRMED": 90,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 9,
+    "CONFIRMED": 90,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 10,
+    "CONFIRMED": 120,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 11,
+    "CONFIRMED": 120,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 12,
+    "CONFIRMED": 120,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 13,
+    "CONFIRMED": 130,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 14,
+    "CONFIRMED": 130,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 15,
+    "CONFIRMED": 140,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 16,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 17,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 18,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 19,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 20,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 21,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 20
+  },
+  {
+    "DAYS": 22,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 80
+  },
+  {
+    "DAYS": 23,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 80
+  },
+  {
+    "DAYS": 24,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 80
+  },
+  {
+    "DAYS": 25,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 80
+  },
+  {
+    "DAYS": 26,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 100
+  },
+  {
+    "DAYS": 27,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 100
+  },
+  {
+    "DAYS": 28,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 100
+  },
+  {
+    "DAYS": 29,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 100
+  },
+  {
+    "DAYS": 30,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 31,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 32,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 33,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 34,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 35,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 36,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 37,
+    "CONFIRMED": 150,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 38,
+    "CONFIRMED": 250,
+    "DEATHS": 0,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 39,
+    "CONFIRMED": 270,
+    "DEATHS": 1,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 40,
+    "CONFIRMED": 300,
+    "DEATHS": 1,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 41,
+    "CONFIRMED": 390,
+    "DEATHS": 1,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 42,
+    "CONFIRMED": 520,
+    "DEATHS": 2,
+    "RECOVERED": 110
+  },
+  {
+    "DAYS": 43,
+    "CONFIRMED": 550,
+    "DEATHS": 2,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 44,
+    "CONFIRMED": 600,
+    "DEATHS": 2,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 45,
+    "CONFIRMED": 630,
+    "DEATHS": 2,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 46,
+    "CONFIRMED": 760,
+    "DEATHS": 4,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 47,
+    "CONFIRMED": 910,
+    "DEATHS": 4,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 48,
+    "CONFIRMED": 1070,
+    "DEATHS": 4,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 49,
+    "CONFIRMED": 1280,
+    "DEATHS": 4,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 50,
+    "CONFIRMED": 1280,
+    "DEATHS": 4,
+    "RECOVERED": 210
+  },
+  {
+    "DAYS": 51,
+    "CONFIRMED": 2000,
+    "DEATHS": 5,
+    "RECOVERED": 230
+  },
+  {
+    "DAYS": 52,
+    "CONFIRMED": 2500,
+    "DEATHS": 5,
+    "RECOVERED": 240
+  },
+  {
+    "DAYS": 53,
+    "CONFIRMED": 2970,
+    "DEATHS": 5,
+    "RECOVERED": 240
+  },
+  {
+    "DAYS": 54,
+    "CONFIRMED": 3770,
+    "DEATHS": 5,
+    "RECOVERED": 240
+  },
+  {
+    "DAYS": 55,
+    "CONFIRMED": 4520,
+    "DEATHS": 7,
+    "RECOVERED": 270
+  },
+  {
+    "DAYS": 56,
+    "CONFIRMED": 5680,
+    "DEATHS": 8,
+    "RECOVERED": 270
+  },
+  {
+    "DAYS": 57,
+    "CONFIRMED": 6810,
+    "DEATHS": 9,
+    "RECOVERED": 300
+  },
+  {
+    "DAYS": 58,
+    "CONFIRMED": 7910,
+    "DEATHS": 10,
+    "RECOVERED": 300
+  },
+  {
+    "DAYS": 59,
+    "CONFIRMED": 10710,
+    "DEATHS": 11,
+    "RECOVERED": 300
+  },
+  {
+    "DAYS": 60,
+    "CONFIRMED": 15490,
+    "DEATHS": 11,
+    "RECOVERED": 930
+  },
+  {
+    "DAYS": 61,
+    "CONFIRMED": 16820,
+    "DEATHS": 11,
+    "RECOVERED": 1170
+  },
+  {
+    "DAYS": 62,
+    "CONFIRMED": 23640,
+    "DEATHS": 11,
+    "RECOVERED": 1190
+  },
+  {
+    "DAYS": 63,
+    "CONFIRMED": 23640,
+    "DEATHS": 8,
+    "RECOVERED": 1190
+  },
+  {
+    "DAYS": 64,
+    "CONFIRMED": 28100,
+    "DEATHS": 13,
+    "RECOVERED": 1720
+  },
+  {
+    "DAYS": 65,
+    "CONFIRMED": 31430,
+    "DEATHS": 13,
+    "RECOVERED": 1940
+  },
+  {
+    "DAYS": 66,
+    "CONFIRMED": 36400,
+    "DEATHS": 14,
+    "RECOVERED": 2440
+  },
+  {
+    "DAYS": 67,
+    "CONFIRMED": 39840,
+    "DEATHS": 16,
+    "RECOVERED": 2440
+  },
+  {
+    "DAYS": 68,
+    "CONFIRMED": 43610,
+    "DEATHS": 17,
+    "RECOVERED": 2570
+  },
+  {
+    "DAYS": 69,
+    "CONFIRMED": 45590,
+    "DEATHS": 18,
+    "RECOVERED": 3580
+  },
+  {
+    "DAYS": 70,
+    "CONFIRMED": 48620,
+    "DEATHS": 20,
+    "RECOVERED": 4220
+  },
+  {
+    "DAYS": 71,
+    "CONFIRMED": 51160,
+    "DEATHS": 24,
+    "RECOVERED": 5200
+  },
+  {
+    "DAYS": 72,
+    "CONFIRMED": 53300,
+    "DEATHS": 28,
+    "RECOVERED": 6490
+  },
+  {
+    "DAYS": 73,
+    "CONFIRMED": 55500,
+    "DEATHS": 30,
+    "RECOVERED": 7010
+  },
+  {
+    "DAYS": 74,
+    "CONFIRMED": 56870,
+    "DEATHS": 35,
+    "RECOVERED": 7570
+  },
+  {
+    "DAYS": 75,
+    "CONFIRMED": 57970,
+    "DEATHS": 40,
+    "RECOVERED": 10800
+  },
+  {
+    "DAYS": 76,
+    "CONFIRMED": 58950,
+    "DEATHS": 45,
+    "RECOVERED": 10800
+  },
+  {
+    "DAYS": 77,
+    "CONFIRMED": 60100,
+    "DEATHS": 50,
+    "RECOVERED": 10800
+  },
+  {
+    "DAYS": 78,
+    "CONFIRMED": 61080,
+    "DEATHS": 51,
+    "RECOVERED": 14720
+  },
+  {
+    "DAYS": 79,
+    "CONFIRMED": 62150,
+    "DEATHS": 54,
+    "RECOVERED": 17930
+  },
+  {
+    "DAYS": 80,
+    "CONFIRMED": 63030,
+    "DEATHS": 57,
+    "RECOVERED": 18060
+  },
+  {
+    "DAYS": 81,
+    "CONFIRMED": 63150,
+    "DEATHS": 60,
+    "RECOVERED": 18060
+  },
+  {
+    "DAYS": 82,
+    "CONFIRMED": 63510,
+    "DEATHS": 61,
+    "RECOVERED": 18060
+  },
+  {
+    "DAYS": 83,
+    "CONFIRMED": 64150,
+    "DEATHS": 62,
+    "RECOVERED": 21860
+  },
+  {
+    "DAYS": 84,
+    "CONFIRMED": 64400,
+    "DEATHS": 63,
+    "RECOVERED": 21860
+  },
+  {
+    "DAYS": 85,
+    "CONFIRMED": 64620,
+    "DEATHS": 63,
+    "RECOVERED": 23550
+  },
+  {
+    "DAYS": 86,
+    "CONFIRMED": 65220,
+    "DEATHS": 66,
+    "RECOVERED": 38080
+  },
+  {
+    "DAYS": 87,
+    "CONFIRMED": 65470,
+    "DEATHS": 67,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 88,
+    "CONFIRMED": 65470,
+    "DEATHS": 67,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 89,
+    "CONFIRMED": 65470,
+    "DEATHS": 67,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 90,
+    "CONFIRMED": 65470,
+    "DEATHS": 67,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 91,
+    "CONFIRMED": 65470,
+    "DEATHS": 67,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 92,
+    "CONFIRMED": 66610,
+    "DEATHS": 75,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 93,
+    "CONFIRMED": 66610,
+    "DEATHS": 75,
+    "RECOVERED": 41240
+  },
+  {
+    "DAYS": 94,
+    "CONFIRMED": 66940,
+    "DEATHS": 80,
+    "RECOVERED": 42230
+  },
+  {
+    "DAYS": 95,
+    "CONFIRMED": 67140,
+    "DEATHS": 83,
+    "RECOVERED": 55410
+  },
+  {
+    "DAYS": 96,
+    "CONFIRMED": 67210,
+    "DEATHS": 83,
+    "RECOVERED": 55880
+  },
+  {
+    "DAYS": 97,
+    "CONFIRMED": 67410,
+    "DEATHS": 88,
+    "RECOVERED": 56530
+  },
+  {
+    "DAYS": 98,
+    "CONFIRMED": 67450,
+    "DEATHS": 91,
+    "RECOVERED": 57040
+  },
+  {
+    "DAYS": 99,
+    "CONFIRMED": 67660,
+    "DEATHS": 93,
+    "RECOVERED": 57280
+  },
+  {
+    "DAYS": 100,
+    "CONFIRMED": 67660,
+    "DEATHS": 93,
+    "RECOVERED": 57470
+  },
+  {
+    "DAYS": 101,
+    "CONFIRMED": 67820,
+    "DEATHS": 94,
+    "RECOVERED": 58080
+  },
+  {
+    "DAYS": 102,
+    "CONFIRMED": 68190,
+    "DEATHS": 95,
+    "RECOVERED": 58170
+  },
+  {
+    "DAYS": 103,
+    "CONFIRMED": 68250,
+    "DEATHS": 96,
+    "RECOVERED": 58630
+  },
+  {
+    "DAYS": 104,
+    "CONFIRMED": 68750,
+    "DEATHS": 97,
+    "RECOVERED": 59750
+  },
+  {
+    "DAYS": 105,
+    "CONFIRMED": 68800,
+    "DEATHS": 97,
+    "RECOVERED": 60290
+  },
+  {
+    "DAYS": 106,
+    "CONFIRMED": 69000,
+    "DEATHS": 97,
+    "RECOVERED": 60580
+  },
+  {
+    "DAYS": 107,
+    "CONFIRMED": 69140,
+    "DEATHS": 97,
+    "RECOVERED": 60790
+  },
+  {
+    "DAYS": 108,
+    "CONFIRMED": 69290,
+    "DEATHS": 97,
+    "RECOVERED": 61340
+  },
+  {
+    "DAYS": 109,
+    "CONFIRMED": 69410,
+    "DEATHS": 97,
+    "RECOVERED": 61670
+  },
+  {
+    "DAYS": 110,
+    "CONFIRMED": 69690,
+    "DEATHS": 97,
+    "RECOVERED": 62110
+  },
+  {
+    "DAYS": 111,
+    "CONFIRMED": 69720,
+    "DEATHS": 98,
+    "RECOVERED": 62590
+  },
+  {
+    "DAYS": 112,
+    "CONFIRMED": 69790,
+    "DEATHS": 98,
+    "RECOVERED": 62710
+  },
+  {
+    "DAYS": 113,
+    "CONFIRMED": 69990,
+    "DEATHS": 98,
+    "RECOVERED": 63110
+  },
+  {
+    "DAYS": 114,
+    "CONFIRMED": 70200,
+    "DEATHS": 98,
+    "RECOVERED": 63380
+  },
+  {
+    "DAYS": 115,
+    "CONFIRMED": 70360,
+    "DEATHS": 98,
+    "RECOVERED": 63630
+  },
+  {
+    "DAYS": 116,
+    "CONFIRMED": 70520,
+    "DEATHS": 99,
+    "RECOVERED": 63910
+  },
+  {
+    "DAYS": 117,
+    "CONFIRMED": 70620,
+    "DEATHS": 99,
+    "RECOVERED": 63960
+  },
+  {
+    "DAYS": 118,
+    "CONFIRMED": 70720,
+    "DEATHS": 100,
+    "RECOVERED": 64310
+  },
+  {
+    "DAYS": 119,
+    "CONFIRMED": 70830,
+    "DEATHS": 100,
+    "RECOVERED": 64620
+  },
+  {
+    "DAYS": 120,
+    "CONFIRMED": 70950,
+    "DEATHS": 101,
+    "RECOVERED": 64780
+  },
+  {
+    "DAYS": 121,
+    "CONFIRMED": 70950,
+    "DEATHS": 101,
+    "RECOVERED": 64790
+  },
+  {
+    "DAYS": 122,
+    "CONFIRMED": 71110,
+    "DEATHS": 102,
+    "RECOVERED": 64940
+  },
+  {
+    "DAYS": 123,
+    "CONFIRMED": 71110,
+    "DEATHS": 102,
+    "RECOVERED": 65060
+  },
+  {
+    "DAYS": 124,
+    "CONFIRMED": 71180,
+    "DEATHS": 102,
+    "RECOVERED": 65330
+  },
+  {
+    "DAYS": 125,
+    "CONFIRMED": 71330,
+    "DEATHS": 102,
+    "RECOVERED": 65530
+  },
+  {
+    "DAYS": 126,
+    "CONFIRMED": 71390,
+    "DEATHS": 103,
+    "RECOVERED": 65670
+  },
+  {
+    "DAYS": 127,
+    "CONFIRMED": 71630,
+    "DEATHS": 103,
+    "RECOVERED": 65800
+  },
+  {
+    "DAYS": 128,
+    "CONFIRMED": 71730,
+    "DEATHS": 103,
+    "RECOVERED": 65820
+  },
+  {
+    "DAYS": 129,
+    "CONFIRMED": 71850,
+    "DEATHS": 103,
+    "RECOVERED": 66070
+  },
+  {
+    "DAYS": 130,
+    "CONFIRMED": 71950,
+    "DEATHS": 103,
+    "RECOVERED": 66150
+  },
+  {
+    "DAYS": 131,
+    "CONFIRMED": 72150,
+    "DEATHS": 103,
+    "RECOVERED": 66240
+  },
+  {
+    "DAYS": 132,
+    "CONFIRMED": 72210,
+    "DEATHS": 102,
+    "RECOVERED": 66260
+  },
+  {
+    "DAYS": 133,
+    "CONFIRMED": 72370,
+    "DEATHS": 102,
+    "RECOVERED": 66400
+  },
+  {
+    "DAYS": 134,
+    "CONFIRMED": 72400,
+    "DEATHS": 102,
+    "RECOVERED": 66670
+  }
+]
