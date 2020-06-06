@@ -1,0 +1,608 @@
+[
+  {
+    "DAY": 1,
+    "RECOVERED": 1,
+    "DECEASED": 0,
+    "INFECTED": 0
+  },
+  {
+    "DAY": 2,
+    "RECOVERED": 2,
+    "DECEASED": 0,
+    "INFECTED": 1
+  },
+  {
+    "DAY": 3,
+    "RECOVERED": 7,
+    "DECEASED": 0,
+    "INFECTED": 1
+  },
+  {
+    "DAY": 4,
+    "RECOVERED": 7,
+    "DECEASED": 0,
+    "INFECTED": 1
+  },
+  {
+    "DAY": 5,
+    "RECOVERED": 12,
+    "DECEASED": 0,
+    "INFECTED": 2
+  },
+  {
+    "DAY": 6,
+    "RECOVERED": 14,
+    "DECEASED": 0,
+    "INFECTED": 2
+  },
+  {
+    "DAY": 7,
+    "RECOVERED": 15,
+    "DECEASED": 0,
+    "INFECTED": 2
+  },
+  {
+    "DAY": 8,
+    "RECOVERED": 21,
+    "DECEASED": 0,
+    "INFECTED": 2
+  },
+  {
+    "DAY": 9,
+    "RECOVERED": 35,
+    "DECEASED": 0,
+    "INFECTED": 3
+  },
+  {
+    "DAY": 10,
+    "RECOVERED": 94,
+    "DECEASED": 0,
+    "INFECTED": 8
+  },
+  {
+    "DAY": 11,
+    "RECOVERED": 101,
+    "DECEASED": 0,
+    "INFECTED": 13
+  },
+  {
+    "DAY": 12,
+    "RECOVERED": 161,
+    "DECEASED": 0,
+    "INFECTED": 18
+  },
+  {
+    "DAY": 13,
+    "RECOVERED": 203,
+    "DECEASED": 0,
+    "INFECTED": 25
+  },
+  {
+    "DAY": 14,
+    "RECOVERED": 248,
+    "DECEASED": 0,
+    "INFECTED": 25
+  },
+  {
+    "DAY": 15,
+    "RECOVERED": 355,
+    "DECEASED": 0,
+    "INFECTED": 34
+  },
+  {
+    "DAY": 16,
+    "RECOVERED": 500,
+    "DECEASED": 0,
+    "INFECTED": 52
+  },
+  {
+    "DAY": 17,
+    "RECOVERED": 599,
+    "DECEASED": 0,
+    "INFECTED": 76
+  },
+  {
+    "DAY": 18,
+    "RECOVERED": 814,
+    "DECEASED": 0,
+    "INFECTED": 98
+  },
+  {
+    "DAY": 19,
+    "RECOVERED": 961,
+    "DECEASED": 0,
+    "INFECTED": 121
+  },
+  {
+    "DAY": 20,
+    "RECOVERED": 1022,
+    "DECEASED": 0,
+    "INFECTED": 176
+  },
+  {
+    "DAY": 21,
+    "RECOVERED": 1103,
+    "DECEASED": 0,
+    "INFECTED": 234
+  },
+  {
+    "DAY": 22,
+    "RECOVERED": 1190,
+    "DECEASED": 1,
+    "INFECTED": 292
+  },
+  {
+    "DAY": 23,
+    "RECOVERED": 1279,
+    "DECEASED": 3,
+    "INFECTED": 428
+  },
+  {
+    "DAY": 24,
+    "RECOVERED": 1439,
+    "DECEASED": 4,
+    "INFECTED": 621
+  },
+  {
+    "DAY": 25,
+    "RECOVERED": 1639,
+    "DECEASED": 11,
+    "INFECTED": 904
+  },
+  {
+    "DAY": 26,
+    "RECOVERED": 1763,
+    "DECEASED": 18,
+    "INFECTED": 1128
+  },
+  {
+    "DAY": 27,
+    "RECOVERED": 1934,
+    "DECEASED": 25,
+    "INFECTED": 1546
+  },
+  {
+    "DAY": 28,
+    "RECOVERED": 2046,
+    "DECEASED": 34,
+    "INFECTED": 1891
+  },
+  {
+    "DAY": 29,
+    "RECOVERED": 2286,
+    "DECEASED": 46,
+    "INFECTED": 2201
+  },
+  {
+    "DAY": 30,
+    "RECOVERED": 2526,
+    "DECEASED": 57,
+    "INFECTED": 2433
+  },
+  {
+    "DAY": 31,
+    "RECOVERED": 2840,
+    "DECEASED": 78,
+    "INFECTED": 2915
+  },
+  {
+    "DAY": 32,
+    "RECOVERED": 3069,
+    "DECEASED": 92,
+    "INFECTED": 3417
+  },
+  {
+    "DAY": 33,
+    "RECOVERED": 3447,
+    "DECEASED": 114,
+    "INFECTED": 3904
+  },
+  {
+    "DAY": 34,
+    "RECOVERED": 3700,
+    "DECEASED": 136,
+    "INFECTED": 4256
+  },
+  {
+    "DAY": 35,
+    "RECOVERED": 4028,
+    "DECEASED": 159,
+    "INFECTED": 4579
+  },
+  {
+    "DAY": 36,
+    "RECOVERED": 4435,
+    "DECEASED": 201,
+    "INFECTED": 5717
+  },
+  {
+    "DAY": 37,
+    "RECOVERED": 4947,
+    "DECEASED": 240,
+    "INFECTED": 6836
+  },
+  {
+    "DAY": 38,
+    "RECOVERED": 5568,
+    "DECEASED": 299,
+    "INFECTED": 7910
+  },
+  {
+    "DAY": 39,
+    "RECOVERED": 6131,
+    "DECEASED": 359,
+    "INFECTED": 9056
+  },
+  {
+    "DAY": 40,
+    "RECOVERED": 6443,
+    "DECEASED": 432,
+    "INFECTED": 10278
+  },
+  {
+    "DAY": 41,
+    "RECOVERED": 6830,
+    "DECEASED": 486,
+    "INFECTED": 11130
+  },
+  {
+    "DAY": 42,
+    "RECOVERED": 7206,
+    "DECEASED": 553,
+    "INFECTED": 12056
+  },
+  {
+    "DAY": 43,
+    "RECOVERED": 7693,
+    "DECEASED": 667,
+    "INFECTED": 13717
+  },
+  {
+    "DAY": 44,
+    "RECOVERED": 8419,
+    "DECEASED": 800,
+    "INFECTED": 15927
+  },
+  {
+    "DAY": 45,
+    "RECOVERED": 9141,
+    "DECEASED": 941,
+    "INFECTED": 17857
+  },
+  {
+    "DAY": 46,
+    "RECOVERED": 9685,
+    "DECEASED": 1056,
+    "INFECTED": 19638
+  },
+  {
+    "DAY": 47,
+    "RECOVERED": 10151,
+    "DECEASED": 1124,
+    "INFECTED": 20727
+  },
+  {
+    "DAY": 48,
+    "RECOVERED": 10483,
+    "DECEASED": 1224,
+    "INFECTED": 22169
+  },
+  {
+    "DAY": 49,
+    "RECOVERED": 10948,
+    "DECEASED": 1338,
+    "INFECTED": 23430
+  },
+  {
+    "DAY": 50,
+    "RECOVERED": 11445,
+    "DECEASED": 1532,
+    "INFECTED": 25262
+  },
+  {
+    "DAY": 51,
+    "RECOVERED": 11927,
+    "DECEASED": 1736,
+    "INFECTED": 28320
+  },
+  {
+    "DAY": 52,
+    "RECOVERED": 12540,
+    "DECEASED": 1924,
+    "INFECTED": 30425
+  },
+  {
+    "DAY": 53,
+    "RECOVERED": 13216,
+    "DECEASED": 2141,
+    "INFECTED": 33999
+  },
+  {
+    "DAY": 54,
+    "RECOVERED": 13822,
+    "DECEASED": 2347,
+    "INFECTED": 36599
+  },
+  {
+    "DAY": 55,
+    "RECOVERED": 14385,
+    "DECEASED": 2462,
+    "INFECTED": 38654
+  },
+  {
+    "DAY": 56,
+    "RECOVERED": 14777,
+    "DECEASED": 2586,
+    "INFECTED": 40581
+  },
+  {
+    "DAY": 57,
+    "RECOVERED": 15322,
+    "DECEASED": 2741,
+    "INFECTED": 43079
+  },
+  {
+    "DAY": 58,
+    "RECOVERED": 16004,
+    "DECEASED": 2906,
+    "INFECTED": 45657
+  },
+  {
+    "DAY": 59,
+    "RECOVERED": 16755,
+    "DECEASED": 3313,
+    "INFECTED": 49492
+  },
+  {
+    "DAY": 60,
+    "RECOVERED": 17567,
+    "DECEASED": 3670,
+    "INFECTED": 52994
+  },
+  {
+    "DAY": 61,
+    "RECOVERED": 18177,
+    "DECEASED": 4016,
+    "INFECTED": 58609
+  },
+  {
+    "DAY": 62,
+    "RECOVERED": 18640,
+    "DECEASED": 4205,
+    "INFECTED": 61888
+  },
+  {
+    "DAY": 63,
+    "RECOVERED": 18926,
+    "DECEASED": 4543,
+    "INFECTED": 66501
+  },
+  {
+    "DAY": 64,
+    "RECOVERED": 19621,
+    "DECEASED": 5017,
+    "INFECTED": 71886
+  },
+  {
+    "DAY": 65,
+    "RECOVERED": 20302,
+    "DECEASED": 5466,
+    "INFECTED": 78162
+  },
+  {
+    "DAY": 66,
+    "RECOVERED": 21092,
+    "DECEASED": 5901,
+    "INFECTED": 85380
+  },
+  {
+    "DAY": 67,
+    "RECOVERED": 21520,
+    "DECEASED": 6329,
+    "INFECTED": 91589
+  },
+  {
+    "DAY": 68,
+    "RECOVERED": 22082,
+    "DECEASED": 6750,
+    "INFECTED": 96559
+  },
+  {
+    "DAY": 69,
+    "RECOVERED": 22317,
+    "DECEASED": 7025,
+    "INFECTED": 101147
+  },
+  {
+    "DAY": 70,
+    "RECOVERED": 22721,
+    "DECEASED": 7321,
+    "INFECTED": 107780
+  },
+  {
+    "DAY": 71,
+    "RECOVERED": 23216,
+    "DECEASED": 7921,
+    "INFECTED": 114715
+  },
+  {
+    "DAY": 72,
+    "RECOVERED": 23918,
+    "DECEASED": 8536,
+    "INFECTED": 125218
+  },
+  {
+    "DAY": 73,
+    "RECOVERED": 24623,
+    "DECEASED": 9146,
+    "INFECTED": 135106
+  },
+  {
+    "DAY": 74,
+    "RECOVERED": 25265,
+    "DECEASED": 9897,
+    "INFECTED": 145328
+  },
+  {
+    "DAY": 75,
+    "RECOVERED": 25921,
+    "DECEASED": 10627,
+    "INFECTED": 155939
+  },
+  {
+    "DAY": 76,
+    "RECOVERED": 26322,
+    "DECEASED": 11123,
+    "INFECTED": 162699
+  },
+  {
+    "DAY": 77,
+    "RECOVERED": 26670,
+    "DECEASED": 11519,
+    "INFECTED": 168331
+  },
+  {
+    "DAY": 78,
+    "RECOVERED": 27272,
+    "DECEASED": 12400,
+    "INFECTED": 177589
+  },
+  {
+    "DAY": 79,
+    "RECOVERED": 27909,
+    "DECEASED": 13149,
+    "INFECTED": 188974
+  },
+  {
+    "DAY": 80,
+    "RECOVERED": 28582,
+    "DECEASED": 13993,
+    "INFECTED": 203378
+  },
+  {
+    "DAY": 81,
+    "RECOVERED": 29207,
+    "DECEASED": 14817,
+    "INFECTED": 218223
+  },
+  {
+    "DAY": 82,
+    "RECOVERED": 29677,
+    "DECEASED": 15633,
+    "INFECTED": 233142
+  },
+  {
+    "DAY": 83,
+    "RECOVERED": 30143,
+    "DECEASED": 16118,
+    "INFECTED": 241090
+  },
+  {
+    "DAY": 84,
+    "RECOVERED": 30377,
+    "DECEASED": 16792,
+    "INFECTED": 254220
+  },
+  {
+    "DAY": 85,
+    "RECOVERED": 30799,
+    "DECEASED": 17971,
+    "INFECTED": 271625
+  },
+  {
+    "DAY": 86,
+    "RECOVERED": 31523,
+    "DECEASED": 18859,
+    "INFECTED": 291579
+  },
+  {
+    "DAY": 87,
+    "RECOVERED": 32172,
+    "DECEASED": 20047,
+    "INFECTED": 310086
+  },
+  {
+    "DAY": 88,
+    "RECOVERED": 32809,
+    "DECEASED": 21044,
+    "INFECTED": 330890
+  },
+  {
+    "DAY": 89,
+    "RECOVERED": 33188,
+    "DECEASED": 22015,
+    "INFECTED": 347398
+  },
+  {
+    "DAY": 90,
+    "RECOVERED": 33459,
+    "DECEASED": 22666,
+    "INFECTED": 363211
+  },
+  {
+    "DAY": 91,
+    "RECOVERED": 33843,
+    "DECEASED": 23496,
+    "INFECTED": 374898
+  },
+  {
+    "DAY": 92,
+    "RECOVERED": 34440,
+    "DECEASED": 24512,
+    "INFECTED": 391222
+  },
+  {
+    "DAY": 93,
+    "RECOVERED": 35088,
+    "DECEASED": 25617,
+    "INFECTED": 411812
+  },
+  {
+    "DAY": 94,
+    "RECOVERED": 35727,
+    "DECEASED": 26754,
+    "INFECTED": 438238
+  },
+  {
+    "DAY": 95,
+    "RECOVERED": 36476,
+    "DECEASED": 27878,
+    "INFECTED": 465166
+  },
+  {
+    "DAY": 96,
+    "RECOVERED": 37113,
+    "DECEASED": 28834,
+    "INFECTED": 498530
+  },
+  {
+    "DAY": 97,
+    "RECOVERED": 37542,
+    "DECEASED": 29315,
+    "INFECTED": 514849
+  },
+  {
+    "DAY": 98,
+    "RECOVERED": 37814,
+    "DECEASED": 29937,
+    "INFECTED": 526447
+  },
+  {
+    "DAY": 99,
+    "RECOVERED": 38589,
+    "DECEASED": 31199,
+    "INFECTED": 555383
+  },
+  {
+    "DAY": 100,
+    "RECOVERED": 40803,
+    "DECEASED": 32548,
+    "INFECTED": 584016
+  },
+  {
+    "DAY": 101,
+    "RECOVERED": 41883,
+    "DECEASED": 32548,
+    "INFECTED": 584016
+  }
+]
