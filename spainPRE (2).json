@@ -1,0 +1,772 @@
+[
+  {
+    "": "01-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 1
+  },
+  {
+    "": "02-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 2
+  },
+  {
+    "": "03-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 3
+  },
+  {
+    "": "04-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 4
+  },
+  {
+    "": "05-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 5
+  },
+  {
+    "": "06-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 6
+  },
+  {
+    "": "07-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 7
+  },
+  {
+    "": "08-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 8
+  },
+  {
+    "": "09-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 9
+  },
+  {
+    "": "10-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 10
+  },
+  {
+    "": "11-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 11
+  },
+  {
+    "": "12-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 12
+  },
+  {
+    "": "13-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 13
+  },
+  {
+    "": "14-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 0,
+    "__1": 14
+  },
+  {
+    "": "15-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 15
+  },
+  {
+    "": "16-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 16
+  },
+  {
+    "": "17-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 17
+  },
+  {
+    "": "18-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 18
+  },
+  {
+    "": "19-Feb",
+    "INFECTED": 10,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 19
+  },
+  {
+    "": "20-Feb",
+    "INFECTED": 30,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 20
+  },
+  {
+    "": "21-Feb",
+    "INFECTED": 30,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 21
+  },
+  {
+    "": "22-Feb",
+    "INFECTED": 30,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 22
+  },
+  {
+    "": "23-Feb",
+    "INFECTED": 30,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 23
+  },
+  {
+    "": "24-Feb",
+    "INFECTED": 40,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 24
+  },
+  {
+    "": "25-Feb",
+    "INFECTED": 100,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 25
+  },
+  {
+    "": "26-Feb",
+    "INFECTED": 180,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 26
+  },
+  {
+    "": "27-Feb",
+    "INFECTED": 360,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 27
+  },
+  {
+    "": "28-Feb",
+    "INFECTED": 550,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 28
+  },
+  {
+    "": "29-Feb",
+    "INFECTED": 830,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 29
+  },
+  {
+    "": "01-Mar",
+    "INFECTED": 1380,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 30
+  },
+  {
+    "": "02-Mar",
+    "INFECTED": 1950,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 31
+  },
+  {
+    "": "03-Mar",
+    "INFECTED": 2690,
+    "DECEASED": 0,
+    "RECOVERED": 20,
+    "__1": 32
+  },
+  {
+    "": "04-Mar",
+    "INFECTED": 3510,
+    "DECEASED": 1,
+    "RECOVERED": 20,
+    "__1": 33
+  },
+  {
+    "": "05-Mar",
+    "INFECTED": 5330,
+    "DECEASED": 3,
+    "RECOVERED": 20,
+    "__1": 34
+  },
+  {
+    "": "06-Mar",
+    "INFECTED": 7680,
+    "DECEASED": 5,
+    "RECOVERED": 20,
+    "__1": 35
+  },
+  {
+    "": "07-Mar",
+    "INFECTED": 11000,
+    "DECEASED": 5,
+    "RECOVERED": 300,
+    "__1": 36
+  },
+  {
+    "": "08-Mar",
+    "INFECTED": 15350,
+    "DECEASED": 28,
+    "RECOVERED": 300,
+    "__1": 37
+  },
+  {
+    "": "09-Mar",
+    "INFECTED": 23020,
+    "DECEASED": 35,
+    "RECOVERED": 320,
+    "__1": 38
+  },
+  {
+    "": "10-Mar",
+    "INFECTED": 32790,
+    "DECEASED": 48,
+    "RECOVERED": 320,
+    "__1": 39
+  },
+  {
+    "": "11-Mar",
+    "INFECTED": 44330,
+    "DECEASED": 85,
+    "RECOVERED": 1830,
+    "__1": 40
+  },
+  {
+    "": "12-Mar",
+    "INFECTED": 59550,
+    "DECEASED": 123,
+    "RECOVERED": 1830,
+    "__1": 41
+  },
+  {
+    "": "13-Mar",
+    "INFECTED": 76460,
+    "DECEASED": 142,
+    "RECOVERED": 1930,
+    "__1": 42
+  },
+  {
+    "": "14-Mar",
+    "INFECTED": 97860,
+    "DECEASED": 293,
+    "RECOVERED": 5170,
+    "__1": 43
+  },
+  {
+    "": "15-Mar",
+    "INFECTED": 114880,
+    "DECEASED": 315,
+    "RECOVERED": 5170,
+    "__1": 44
+  },
+  {
+    "": "16-Mar",
+    "INFECTED": 140110,
+    "DECEASED": 497,
+    "RECOVERED": 5300,
+    "__1": 45
+  },
+  {
+    "": "17-Mar",
+    "INFECTED": 177070,
+    "DECEASED": 591,
+    "RECOVERED": 10280,
+    "__1": 46
+  },
+  {
+    "": "18-Mar",
+    "INFECTED": 217440,
+    "DECEASED": 766,
+    "RECOVERED": 10810,
+    "__1": 47
+  },
+  {
+    "": "19-Mar",
+    "INFECTED": 262990,
+    "DECEASED": 995,
+    "RECOVERED": 11070,
+    "__1": 48
+  },
+  {
+    "": "20-Mar",
+    "INFECTED": 317650,
+    "DECEASED": 1328,
+    "RECOVERED": 15880,
+    "__1": 49
+  },
+  {
+    "": "21-Mar",
+    "INFECTED": 366330,
+    "DECEASED": 1676,
+    "RECOVERED": 21250,
+    "__1": 50
+  },
+  {
+    "": "22-Mar",
+    "INFECTED": 412630,
+    "DECEASED": 2146,
+    "RECOVERED": 25750,
+    "__1": 51
+  },
+  {
+    "": "23-Mar",
+    "INFECTED": 489810,
+    "DECEASED": 2711,
+    "RECOVERED": 25750,
+    "__1": 52
+  },
+  {
+    "": "24-Mar",
+    "INFECTED": 575190,
+    "DECEASED": 3307,
+    "RECOVERED": 37940,
+    "__1": 53
+  },
+  {
+    "": "25-Mar",
+    "INFECTED": 664920,
+    "DECEASED": 3920,
+    "RECOVERED": 53670,
+    "__1": 54
+  },
+  {
+    "": "26-Mar",
+    "INFECTED": 756690,
+    "DECEASED": 4673,
+    "RECOVERED": 70150,
+    "__1": 55
+  },
+  {
+    "": "27-Mar",
+    "INFECTED": 839170,
+    "DECEASED": 5513,
+    "RECOVERED": 93570,
+    "__1": 56
+  },
+  {
+    "": "28-Mar",
+    "INFECTED": 903570,
+    "DECEASED": 6223,
+    "RECOVERED": 122850,
+    "__1": 57
+  },
+  {
+    "": "29-Mar",
+    "INFECTED": 961540,
+    "DECEASED": 6923,
+    "RECOVERED": 147090,
+    "__1": 58
+  },
+  {
+    "": "30-Mar",
+    "INFECTED": 1043120,
+    "DECEASED": 7744,
+    "RECOVERED": 167800,
+    "__1": 59
+  },
+  {
+    "": "31-Mar",
+    "INFECTED": 1117370,
+    "DECEASED": 8674,
+    "RECOVERED": 192590,
+    "__1": 60
+  },
+  {
+    "": "01-Apr",
+    "INFECTED": 1193180,
+    "DECEASED": 9546,
+    "RECOVERED": 226470,
+    "__1": 61
+  },
+  {
+    "": "02-Apr",
+    "INFECTED": 1266100,
+    "DECEASED": 10394,
+    "RECOVERED": 267430,
+    "__1": 62
+  },
+  {
+    "": "03-Apr",
+    "INFECTED": 1332950,
+    "DECEASED": 11171,
+    "RECOVERED": 305130,
+    "__1": 63
+  },
+  {
+    "": "04-Apr",
+    "INFECTED": 1388460,
+    "DECEASED": 11841,
+    "RECOVERED": 342190,
+    "__1": 64
+  },
+  {
+    "": "05-Apr",
+    "INFECTED": 1425190,
+    "DECEASED": 12469,
+    "RECOVERED": 380800,
+    "__1": 65
+  },
+  {
+    "": "06-Apr",
+    "INFECTED": 1477320,
+    "DECEASED": 13224,
+    "RECOVERED": 404370,
+    "__1": 66
+  },
+  {
+    "": "07-Apr",
+    "INFECTED": 1533110,
+    "DECEASED": 13981,
+    "RECOVERED": 432080,
+    "__1": 67
+  },
+  {
+    "": "08-Apr",
+    "INFECTED": 1590590,
+    "DECEASED": 14760,
+    "RECOVERED": 480210,
+    "__1": 68
+  },
+  {
+    "": "09-Apr",
+    "INFECTED": 1636130,
+    "DECEASED": 15407,
+    "RECOVERED": 521650,
+    "__1": 69
+  },
+  {
+    "": "10-Apr",
+    "INFECTED": 1681670,
+    "DECEASED": 15905,
+    "RECOVERED": 556680,
+    "__1": 70
+  },
+  {
+    "": "11-Apr",
+    "INFECTED": 1720760,
+    "DECEASED": 16515,
+    "RECOVERED": 591090,
+    "__1": 71
+  },
+  {
+    "": "12-Apr",
+    "INFECTED": 1751330,
+    "DECEASED": 17064,
+    "RECOVERED": 623910,
+    "__1": 72
+  },
+  {
+    "": "13-Apr",
+    "INFECTED": 1782610,
+    "DECEASED": 17600,
+    "RECOVERED": 647270,
+    "__1": 73
+  },
+  {
+    "": "14-Apr",
+    "INFECTED": 1827130,
+    "DECEASED": 18282,
+    "RECOVERED": 675040,
+    "__1": 74
+  },
+  {
+    "": "15-Apr",
+    "INFECTED": 1865120,
+    "DECEASED": 18901,
+    "RECOVERED": 708530,
+    "__1": 75
+  },
+  {
+    "": "16-Apr",
+    "INFECTED": 1903840,
+    "DECEASED": 19490,
+    "RECOVERED": 747970,
+    "__1": 76
+  },
+  {
+    "": "17-Apr",
+    "INFECTED": 1942320,
+    "DECEASED": 20046,
+    "RECOVERED": 747970,
+    "__1": 77
+  },
+  {
+    "": "18-Apr",
+    "INFECTED": 1942320,
+    "DECEASED": 20454,
+    "RECOVERED": 747970,
+    "__1": 78
+  },
+  {
+    "": "19-Apr",
+    "INFECTED": 1957460,
+    "DECEASED": 20851,
+    "RECOVERED": 773570,
+    "__1": 79
+  },
+  {
+    "": "20-Apr",
+    "INFECTED": 1987090,
+    "DECEASED": 21283,
+    "RECOVERED": 805870,
+    "__1": 80
+  },
+  {
+    "": "21-Apr",
+    "INFECTED": 2010740,
+    "DECEASED": 21717,
+    "RECOVERED": 825140,
+    "__1": 81
+  },
+  {
+    "": "22-Apr",
+    "INFECTED": 2040270,
+    "DECEASED": 22156,
+    "RECOVERED": 859150,
+    "__1": 82
+  },
+  {
+    "": "23-Apr",
+    "INFECTED": 2061510,
+    "DECEASED": 22521,
+    "RECOVERED": 892500,
+    "__1": 83
+  },
+  {
+    "": "24-Apr",
+    "INFECTED": 2086560,
+    "DECEASED": 22898,
+    "RECOVERED": 923550,
+    "__1": 84
+  },
+  {
+    "": "25-Apr",
+    "INFECTED": 2103110,
+    "DECEASED": 23184,
+    "RECOVERED": 957080,
+    "__1": 85
+  },
+  {
+    "": "26-Apr",
+    "INFECTED": 2119710,
+    "DECEASED": 23516,
+    "RECOVERED": 983720,
+    "__1": 86
+  },
+  {
+    "": "27-Apr",
+    "INFECTED": 2135030,
+    "DECEASED": 23813,
+    "RECOVERED": 1008750,
+    "__1": 87
+  },
+  {
+    "": "28-Apr",
+    "INFECTED": 2143870,
+    "DECEASED": 24272,
+    "RECOVERED": 1025480,
+    "__1": 88
+  },
+  {
+    "": "29-Apr",
+    "INFECTED": 2156630,
+    "DECEASED": 24537,
+    "RECOVERED": 1089470,
+    "__1": 89
+  },
+  {
+    "": "30-Apr",
+    "INFECTED": 2169650,
+    "DECEASED": 24818,
+    "RECOVERED": 1120500,
+    "__1": 90
+  },
+  {
+    "": "01-May",
+    "INFECTED": 2182070,
+    "DECEASED": 25097,
+    "RECOVERED": 1120500,
+    "__1": 91
+  },
+  {
+    "": "02-May",
+    "INFECTED": 2191100,
+    "DECEASED": 25260,
+    "RECOVERED": 1172480,
+    "__1": 92
+  },
+  {
+    "": "03-May",
+    "INFECTED": 2195540,
+    "DECEASED": 25424,
+    "RECOVERED": 1189020,
+    "__1": 93
+  },
+  {
+    "": "04-May",
+    "INFECTED": 2205850,
+    "DECEASED": 25610,
+    "RECOVERED": 1213430,
+    "__1": 94
+  },
+  {
+    "": "05-May",
+    "INFECTED": 2214580,
+    "DECEASED": 25854,
+    "RECOVERED": 1234860,
+    "__1": 95
+  },
+  {
+    "": "06-May",
+    "INFECTED": 2223730,
+    "DECEASED": 26062,
+    "RECOVERED": 1260020,
+    "__1": 96
+  },
+  {
+    "": "07-May",
+    "INFECTED": 2235360,
+    "DECEASED": 26291,
+    "RECOVERED": 1285110,
+    "__1": 97
+  },
+  {
+    "": "08-May",
+    "INFECTED": 2242830,
+    "DECEASED": 26469,
+    "RECOVERED": 1311480,
+    "__1": 98
+  },
+  {
+    "": "09-May",
+    "INFECTED": 2249930,
+    "DECEASED": 26613,
+    "RECOVERED": 1339520,
+    "__1": 99
+  },
+  {
+    "": "10-May",
+    "INFECTED": 2278980,
+    "DECEASED": 26737,
+    "RECOVERED": 1361660,
+    "__1": 100
+  },
+  {
+    "": "11-May",
+    "INFECTED": 2286080,
+    "DECEASED": 26909,
+    "RECOVERED": 1371390,
+    "__1": 101
+  },
+  {
+    "": "12-May",
+    "INFECTED": 2291980,
+    "DECEASED": 27091,
+    "RECOVERED": 1389800,
+    "__1": 102
+  },
+  {
+    "": "13-May",
+    "INFECTED": 2296520,
+    "DECEASED": 27308,
+    "RECOVERED": 1408230,
+    "__1": 103
+  },
+  {
+    "": "14-May",
+    "INFECTED": 2304610,
+    "DECEASED": 27449,
+    "RECOVERED": 1433740,
+    "__1": 104
+  },
+  {
+    "": "15-May",
+    "INFECTED": 2310470,
+    "DECEASED": 27549,
+    "RECOVERED": 1447830,
+    "__1": 105
+  },
+  {
+    "": "16-May",
+    "INFECTED": 2316090,
+    "DECEASED": 27634,
+    "RECOVERED": 1464460,
+    "__1": 106
+  },
+  {
+    "": "17-May",
+    "INFECTED": 2319300,
+    "DECEASED": 27693,
+    "RECOVERED": 1464460,
+    "__1": 107
+  },
+  {
+    "": "18-May",
+    "INFECTED": 2322460,
+    "DECEASED": 27793,
+    "RECOVERED": 1503760,
+    "__1": 108
+  },
+  {
+    "": "19-May",
+    "INFECTED": 2326930,
+    "DECEASED": 27892,
+    "RECOVERED": 1503760,
+    "__1": 109
+  },
+  {
+    "": "20-May",
+    "INFECTED": 2330370,
+    "DECEASED": 27940,
+    "RECOVERED": 1503760,
+    "__1": 110
+  }
+]
